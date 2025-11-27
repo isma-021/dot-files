@@ -12,7 +12,7 @@ Este repositorio contiene toda mi configuración, incluyendo WM, terminal, barra
 - **Shell:** Zsh
 - **Display Manager:** SDDM (con _Silent SDDM_)
 
-![[Pasted image 20251127221843.png]]
+![img1](img/Sistema.png)
 
 ---
 
@@ -30,13 +30,14 @@ Incluye:
 ## 📊 Waybar — Barra de tareas
 
 Capturas:
- ![[Pasted image 20251127170110.png]]
+
+![img2](img/Waybar.png)
 
 ---
 
 ## 🚀 Wofi — App Launcher (Wayland)
 
-![[Pasted image 20251126133013.png]]
+![img3](img/Wofi.png)
 
 ---
 
@@ -67,34 +68,35 @@ Capturas:
 
 ## ✍️ NeoVim — Editor de texto
 
-![[Pasted image 20251126132904.png]]
+![img4](img/NeoVim.png)
 
 ---
 
 ## 🎧 rmpc — Cliente de terminal MPD
 
-![[Pasted image 20251126132748.png]]
+![img5](img/rmpc.png)
 
 ---
 
 ## ⚙️ fastfetch — System Info (CLI)
 
-![[Pasted image 20251126130952.png]]
+![img6](img/fastfetch.png)
 
 ---
 
 ## 🔔 swaync — Notification Daemon
 
-![[swaync.mp4]]
+[![vid1](https://raw.githubusercontent.com/isma-021/dot-files/main/img/swaync.png)](https://raw.githubusercontent.com/isma-021/dot-files/main/img/swaync.mp4)
 
 ---
 
 ## 🔒 wlogout — Logout Manager (GUI)
 
-![[wlogout 1.mp4]]
+[![vid2](https://raw.githubusercontent.com/isma-021/dot-files/main/img/wlogout.png)](https://raw.githubusercontent.com/isma-021/dot-files/main/img/wlogout.mp4)
+
 
 ---
 
 ## 🖥️ SDDM — Display Manager
 
-- Configuración personalizada estilo _Silent SDDM_.
+[![vid1](https://raw.githubusercontent.com/isma-021/dot-files/main/img/silentSDDM.png)](https://raw.githubusercontent.com/isma-021/dot-files/main/img/silentSDDM.mp4)
