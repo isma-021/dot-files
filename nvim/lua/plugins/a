@@ -1,0 +1,14 @@
+cmdline.lua
+colors.lua
+completions.lua
+csscolors.lua
+git.lua
+icons.lua
+lualine.lua
+markdown.lua
+neo-tree.lua
+snacks.lua
+tab.lua
+telescope.lua
+treesitter.lua
+typr.lua
