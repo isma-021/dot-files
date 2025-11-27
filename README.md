@@ -86,17 +86,16 @@ Capturas:
 
 ## 🔔 swaync — Notification Daemon
 
-[![vid1](https://raw.githubusercontent.com/isma-021/dot-files/main/img/swaync.png)](https://raw.githubusercontent.com/isma-021/dot-files/main/img/swaync.mp4)
+https://github.com/user-attachments/assets/dfefb452-cebd-4506-a88a-886918de5c8c
 
 ---
 
 ## 🔒 wlogout — Logout Manager (GUI)
 
-[![vid2](https://raw.githubusercontent.com/isma-021/dot-files/main/img/wlogout.png)](https://raw.githubusercontent.com/isma-021/dot-files/main/img/wlogout.mp4)
-
+https://github.com/user-attachments/assets/ca72dbe4-a727-499b-806e-769ffc41f907
 
 ---
 
 ## 🖥️ SDDM — Display Manager
 
-[![vid1](https://raw.githubusercontent.com/isma-021/dot-files/main/img/silentSDDM.png)](https://raw.githubusercontent.com/isma-021/dot-files/main/img/silentSDDM.mp4)
+https://github.com/user-attachments/assets/ff545e8b-61e7-43c6-9821-cf6ec7f6d891
