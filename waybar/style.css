@@ -1,0 +1,81 @@
+*{
+    border: none;
+    font-family: "Hack Nerd Font";
+    font-size: 15px;
+    min-height: 30px;
+    background-color: transparent;
+}
+
+.modules-center{
+    padding: 0px 15px;
+    border: 1px solid rgba(36, 36, 36, 1);
+    border-radius: 25px;
+    color: rgba(240, 72, 91, 1);
+    background-color: rgba(9, 9, 9, 1);
+}
+
+.modules-left{
+    padding: 0px 15px;
+    border: 1px solid rgba(36, 36, 36, 1);
+    border-radius: 25px;
+    background-color: rgba(9, 9, 9, 1);
+}
+
+#workspaces button.active label{
+    color: rgba(240, 72, 91, 1); 
+    font-size: 20px;
+    transition: color 0.3s ease, text-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.workspace-label {
+    color: rgba(71, 45, 50, 1);
+    font-size: 18px;
+}
+
+#custom-icon{
+    color: rgba(240, 72, 91, 1);
+    padding: 0 10px;
+    font-size: 25px;
+}
+
+#workspaces button{
+    font-size: 25px;
+}
+
+.modules-right{
+    padding: 0px 15px;
+    border: 1px solid rgba(36, 36, 36, 1);
+    border-radius: 25px;
+    background-color: rgba(9, 9, 9, 1);
+    color: rgba(240, 72, 91, 1);
+}
+
+#clock {
+    font-size: 15px;
+    padding: 0 0 0 0px;
+}
+
+.ethernet {
+    padding: 0 0px 0 5px;
+}
+
+#cpu {
+    padding: 0 10px 0 0px;
+}
+
+#memory {
+    padding: 0 10px 0 0px;
+}
+
+#backlight {
+    padding: 0 10px 0 0px;
+}
+
+#custom-separator{
+	padding: 0 5px;
+    color: rgba(71, 45, 50, 1);
+}
+
+#power-profiles-daemon {
+	padding: 0 5px 0 5px
+}
